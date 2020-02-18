@@ -1,1 +1,24 @@
-https://github.com/xingshaocheng/architect-awesome   ¡¶ºó¶Ë¼Ü¹¹Ê¦¼¼ÊõÍ¼Æ×¡·
+ï»¿https://github.com/xingshaocheng/architect-awesome   ï¿½ï¿½ï¿½ï¿½Ë¼Ü¹ï¿½Ê¦ï¿½ï¿½ï¿½ï¿½Í¼ï¿½×¡ï¿½
+https://blog.csdn.net/qq_36344441
+
+AspectJ
+https://www.cnblogs.com/wade-luffy/p/6073702.html
+https://www.cnblogs.com/takumicx/p/10150344.html
+https://stackoverflow.com/questions/48492162/using-aspectj-ltw-to-allow-spring-proxy-functionalty-on-self-invocation-of-non-p
+
+tx-lcn  P22
+https://www.bilibili.com/video/av75444542?from=search&seid=8841412132544439231
+
+spring cloud & HA
+https://segmentfault.com/a/1190000015563290
+mysql master&slave
+https://blog.csdn.net/qq_15092079/article/details/81672920
+
+RocketMQ
+https://www.bilibili.com/video/av59635085?p=8
+
+
+https://www.bilibili.com/video/av78670785?from=search&seid=3956080226835062924
+
+
+	
