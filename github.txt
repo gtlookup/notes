@@ -16,9 +16,13 @@ https://blog.csdn.net/qq_15092079/article/details/81672920
 
 RocketMQ
 https://www.bilibili.com/video/av59635085?p=8
+https://www.cnblogs.com/tudachui/p/10998984.html
+https://blog.csdn.net/micholas_net/article/details/89178761  环境
 
-
-https://www.bilibili.com/video/av78670785?from=search&seid=3956080226835062924
+多线程详解
+https://www.bilibili.com/video/av54171171?p=4
+锁/并发
+https://www.bilibili.com/video/av78670785?p=6
 
 
 	
